@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822101886417",
+    "firebase_url": "https://onlineshopp-be39f.firebaseio.com",
+    "project_id": "onlineshopp-be39f",
+    "storage_bucket": "onlineshopp-be39f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822101886417:android:aa8cc3cb708083fbbf0cf0",
+        "android_client_info": {
+          "package_name": "com.wiates.ecomm.onlineshopp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822101886417-4sunrgf50erk9d2c9b99799vhria1j3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wiates.ecomm.onlineshopp",
+            "certificate_hash": "33421b46212ea4e4a12eef919bb8c9088ec482a3"
+          }
+        },
+        {
+          "client_id": "822101886417-7mtao4fm1qf6rcj9tqvm5fadl4ot3k33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WJCDBxjvRaqMT7ulaUehJJGRW-9H_Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822101886417-7mtao4fm1qf6rcj9tqvm5fadl4ot3k33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
